@@ -1,0 +1,1941 @@
+{
+  "bell_pepper": {
+    "emoji": "🫑",
+    "unicode": "U+1FAD1",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "aliases": [
+      "capsicum",
+      "sweet pepper",
+      "pepper",
+      "green pepper",
+      "red pepper"
+    ],
+    "plural": "bell peppers",
+    "variants": {
+      "red": {
+        "emoji": "🌶️",
+        "note": "Often confused; use 🫑 for mild, 🌶️ for spicy"
+      }
+    },
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pepper": {
+    "ambiguous": true,
+    "options": [
+      {
+        "canonical": "black_pepper",
+        "emoji": "🧂",
+        "context": "spice/seasoning",
+        "example_phrase": "salt and pepper"
+      },
+      {
+        "canonical": "bell_pepper",
+        "emoji": "🫑",
+        "context": "vegetable",
+        "example_phrase": "stuffed bell peppers"
+      },
+      {
+        "canonical": "chili_pepper",
+        "emoji": "🌶️",
+        "context": "spicy pepper",
+        "example_phrase": "chili flakes"
+      }
+    ]
+  },
+  "black_pepper": {
+    "emoji": "🧂",
+    "unicode": "U+1F9C2",
+    "category": "spice",
+    "subcategory": "seasoning",
+    "aliases": [
+      "peppercorn",
+      "ground pepper"
+    ],
+    "plural": "black pepper",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "11.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "chili_pepper": {
+    "emoji": "🌶️",
+    "unicode": "U+1F336",
+    "category": "vegetable",
+    "subcategory": "spice",
+    "aliases": [
+      "chili",
+      "hot pepper",
+      "chile",
+      "jalapeno",
+      "cayenne"
+    ],
+    "plural": "chili peppers",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "7.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "eggplant": {
+    "emoji": "🍆",
+    "unicode": "U+1F346",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "aliases": [
+      "aubergine",
+      "brinjal",
+      "melongene",
+      "guinea squash"
+    ],
+    "plural": "eggplants",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cilantro": {
+    "emoji": "🌿",
+    "unicode": "U+1F33F",
+    "category": "herb",
+    "aliases": [
+      "coriander",
+      "chinese parsley",
+      "dhania"
+    ],
+    "plural": "cilantro",
+    "notes": {
+      "UK": "UK 'coriander' = US 'cilantro'. For the seed/spice, use 'coriander seed'"
+    },
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "ground_beef": {
+    "emoji": "🥩",
+    "unicode": "U+1F969",
+    "category": "protein",
+    "subcategory": "meat",
+    "aliases": [
+      "beef mince",
+      "minced beef",
+      "hamburger meat"
+    ],
+    "plural": "ground beef",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "carrot": {
+    "emoji": "🥕",
+    "unicode": "U+1F955",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": [],
+    "plural": "carrots",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "potato": {
+    "emoji": "🥔",
+    "unicode": "U+1F954",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": [
+      "spud",
+      "tater"
+    ],
+    "plural": "potatoes",
+    "variants": {
+      "sweet": {
+        "emoji": "🍠",
+        "note": "Sweet potato variant"
+      }
+    },
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "sweet_potato": {
+    "emoji": "🍠",
+    "unicode": "U+1F360",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": [
+      "yam"
+    ],
+    "plural": "sweet potatoes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "beet": {
+    "emoji": "🍠",
+    "unicode": "U+1F360",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": [
+      "beetroot"
+    ],
+    "plural": "beets",
+    "note": "shares emoji with sweet potato",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "medium"
+    }
+  },
+  "pitaya": {
+    "emoji": "🐉",
+    "unicode": "U+1F409",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [
+      "dragon fruit",
+      "dragonfruit",
+      "strawberry pear"
+    ],
+    "plural": "pitayas",
+    "note": "No specific emoji; 🐉 suggested as visual substitute",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "low"
+    }
+  },
+  "rambutan": {
+    "emoji": "🍇",
+    "unicode": "U+1F347",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [],
+    "plural": "rambutans",
+    "rarity": "exotic",
+    "note": "No specific rambutan emoji; 🍇 suggested as visual substitute",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "low"
+    }
+  },
+  "peppermint": {
+    "emoji": "🍃",
+    "unicode": "U+1F343",
+    "category": "herb",
+    "aliases": [
+      "mint"
+    ],
+    "plural": "peppermint",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "medium"
+    }
+  },
+  "apple": {
+    "emoji": "🍎",
+    "unicode": "U+1F34E",
+    "category": "fruit",
+    "subcategory": "pome",
+    "aliases": [
+      "red apple"
+    ],
+    "plural": "apples",
+    "variants": {
+      "green": {
+        "emoji": "🍏",
+        "note": "Green apple"
+      }
+    },
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "banana": {
+    "emoji": "🍌",
+    "unicode": "U+1F34C",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [],
+    "plural": "bananas",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "orange": {
+    "emoji": "🍊",
+    "unicode": "U+1F34A",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "aliases": [
+      "tangerine",
+      "mandarin"
+    ],
+    "plural": "oranges",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "lemon": {
+    "emoji": "🍋",
+    "unicode": "U+1F34B",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "aliases": [],
+    "plural": "lemons",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "grapes": {
+    "emoji": "🍇",
+    "unicode": "U+1F347",
+    "category": "fruit",
+    "subcategory": "berry",
+    "aliases": [
+      "grape"
+    ],
+    "plural": "grapes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "watermelon": {
+    "emoji": "🍉",
+    "unicode": "U+1F349",
+    "category": "fruit",
+    "subcategory": "melon",
+    "aliases": [],
+    "plural": "watermelons",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "strawberry": {
+    "emoji": "🍓",
+    "unicode": "U+1F353",
+    "category": "fruit",
+    "subcategory": "berry",
+    "aliases": [],
+    "plural": "strawberries",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "melon": {
+    "emoji": "🍈",
+    "unicode": "U+1F348",
+    "category": "fruit",
+    "subcategory": "melon",
+    "aliases": [
+      "cantaloupe",
+      "honeydew"
+    ],
+    "plural": "melons",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "peach": {
+    "emoji": "🍑",
+    "unicode": "U+1F351",
+    "category": "fruit",
+    "subcategory": "stone",
+    "aliases": [],
+    "plural": "peaches",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "mango": {
+    "emoji": "🥭",
+    "unicode": "U+1F96D",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [],
+    "plural": "mangoes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "11.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pineapple": {
+    "emoji": "🍍",
+    "unicode": "U+1F34D",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [],
+    "plural": "pineapples",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "coconut": {
+    "emoji": "🥥",
+    "unicode": "U+1F965",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [],
+    "plural": "coconuts",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "kiwi": {
+    "emoji": "🥝",
+    "unicode": "U+1F95D",
+    "category": "fruit",
+    "subcategory": "berry",
+    "aliases": [
+      "kiwifruit"
+    ],
+    "plural": "kiwis",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "tomato": {
+    "emoji": "🍅",
+    "unicode": "U+1F345",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "aliases": [],
+    "plural": "tomatoes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "olive": {
+    "emoji": "🫒",
+    "unicode": "U+1FAD2",
+    "category": "fruit",
+    "subcategory": "stone",
+    "aliases": [
+      "green olive"
+    ],
+    "plural": "olives",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "avocado": {
+    "emoji": "🥑",
+    "unicode": "U+1F951",
+    "category": "fruit",
+    "subcategory": "berry",
+    "aliases": [],
+    "plural": "avocados",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "onion": {
+    "emoji": "🧅",
+    "unicode": "U+1F9C5",
+    "category": "vegetable",
+    "subcategory": "bulb",
+    "aliases": [],
+    "plural": "onions",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "garlic": {
+    "emoji": "🧄",
+    "unicode": "U+1F9C4",
+    "category": "vegetable",
+    "subcategory": "bulb",
+    "aliases": [],
+    "plural": "garlics",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cucumber": {
+    "emoji": "🥒",
+    "unicode": "U+1F952",
+    "category": "vegetable",
+    "subcategory": "gourd",
+    "aliases": [
+      "pickle"
+    ],
+    "plural": "cucumbers",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "broccoli": {
+    "emoji": "🥦",
+    "unicode": "U+1F966",
+    "category": "vegetable",
+    "subcategory": "cruciferous",
+    "aliases": [],
+    "plural": "broccoli",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "mushroom": {
+    "emoji": "🍄",
+    "unicode": "U+1F344",
+    "category": "vegetable",
+    "subcategory": "fungi",
+    "aliases": [
+      "toadstool"
+    ],
+    "plural": "mushrooms",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "peanuts": {
+    "emoji": "🥜",
+    "unicode": "U+1F95C",
+    "category": "nut",
+    "subcategory": "legume",
+    "aliases": [
+      "peanut"
+    ],
+    "plural": "peanuts",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "bread": {
+    "emoji": "🍞",
+    "unicode": "U+1F35E",
+    "category": "grain",
+    "subcategory": "baked",
+    "aliases": [
+      "loaf"
+    ],
+    "plural": "breads",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "croissant": {
+    "emoji": "🥐",
+    "unicode": "U+1F950",
+    "category": "grain",
+    "subcategory": "pastry",
+    "aliases": [],
+    "plural": "croissants",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pretzel": {
+    "emoji": "🥨",
+    "unicode": "U+1F968",
+    "category": "grain",
+    "subcategory": "baked",
+    "aliases": [],
+    "plural": "pretzels",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "bagel": {
+    "emoji": "🥯",
+    "unicode": "U+1F96F",
+    "category": "grain",
+    "subcategory": "baked",
+    "aliases": [],
+    "plural": "bagels",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "11.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pancakes": {
+    "emoji": "🥞",
+    "unicode": "U+1F95E",
+    "category": "grain",
+    "subcategory": "breakfast",
+    "aliases": [
+      "hotcakes",
+      "flapjacks"
+    ],
+    "plural": "pancakes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cheese": {
+    "emoji": "🧀",
+    "unicode": "U+1F9C0",
+    "category": "dairy",
+    "subcategory": "cheese",
+    "aliases": [
+      "cheese wedge"
+    ],
+    "plural": "cheeses",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "egg": {
+    "emoji": "🥚",
+    "unicode": "U+1F95A",
+    "category": "protein",
+    "subcategory": "egg",
+    "aliases": [],
+    "plural": "eggs",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "bacon": {
+    "emoji": "🥓",
+    "unicode": "U+1F953",
+    "category": "protein",
+    "subcategory": "meat",
+    "aliases": [],
+    "plural": "bacon",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pizza": {
+    "emoji": "🍕",
+    "unicode": "U+1F355",
+    "category": "prepared",
+    "subcategory": "fast food",
+    "aliases": [
+      "slice of pizza"
+    ],
+    "plural": "pizzas",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "hamburger": {
+    "emoji": "🍔",
+    "unicode": "U+1F354",
+    "category": "prepared",
+    "subcategory": "fast food",
+    "aliases": [
+      "burger",
+      "cheeseburger"
+    ],
+    "plural": "hamburgers",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "hot_dog": {
+    "emoji": "🌭",
+    "unicode": "U+1F32D",
+    "category": "prepared",
+    "subcategory": "fast food",
+    "aliases": [
+      "frankfurter",
+      "sausage in bun",
+      "wiener"
+    ],
+    "plural": "hot dogs",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "french_fries": {
+    "emoji": "🍟",
+    "unicode": "U+1F35F",
+    "category": "prepared",
+    "subcategory": "fast food",
+    "aliases": [
+      "fries",
+      "chips"
+    ],
+    "plural": "french fries",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "taco": {
+    "emoji": "🌮",
+    "unicode": "U+1F32E",
+    "category": "prepared",
+    "subcategory": "mexican",
+    "aliases": [],
+    "plural": "tacos",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "burrito": {
+    "emoji": "🌯",
+    "unicode": "U+1F32F",
+    "category": "prepared",
+    "subcategory": "mexican",
+    "aliases": [
+      "wrap"
+    ],
+    "plural": "burritos",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "salad": {
+    "emoji": "🥗",
+    "unicode": "U+1F957",
+    "category": "prepared",
+    "subcategory": "healthy",
+    "aliases": [
+      "green salad",
+      "bowl of salad"
+    ],
+    "plural": "salads",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "popcorn": {
+    "emoji": "🍿",
+    "unicode": "U+1F37F",
+    "category": "snack",
+    "subcategory": "fast food",
+    "aliases": [],
+    "plural": "popcorn",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "butter": {
+    "emoji": "🧈",
+    "unicode": "U+1F9C8",
+    "category": "dairy",
+    "subcategory": "fat",
+    "aliases": [
+      "stick of butter"
+    ],
+    "plural": "butters",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "rice": {
+    "emoji": "🍚",
+    "unicode": "U+1F35A",
+    "category": "grain",
+    "subcategory": "cooked",
+    "aliases": [
+      "cooked rice",
+      "bowl of rice"
+    ],
+    "plural": "rice",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "sushi": {
+    "emoji": "🍣",
+    "unicode": "U+1F363",
+    "category": "prepared",
+    "subcategory": "japanese",
+    "aliases": [
+      "nigiri",
+      "sashimi"
+    ],
+    "plural": "sushi",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "bento_box": {
+    "emoji": "🍱",
+    "unicode": "U+1F371",
+    "category": "prepared",
+    "subcategory": "japanese",
+    "aliases": [
+      "bento",
+      "lunch box"
+    ],
+    "plural": "bento boxes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "curry": {
+    "emoji": "🍛",
+    "unicode": "U+1F35B",
+    "category": "prepared",
+    "subcategory": "asian",
+    "aliases": [
+      "curry rice"
+    ],
+    "plural": "curries",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "ramen": {
+    "emoji": "🍜",
+    "unicode": "U+1F35C",
+    "category": "prepared",
+    "subcategory": "asian",
+    "aliases": [
+      "noodles",
+      "steaming bowl"
+    ],
+    "plural": "ramen",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "spaghetti": {
+    "emoji": "🍝",
+    "unicode": "U+1F35D",
+    "category": "prepared",
+    "subcategory": "italian",
+    "aliases": [
+      "pasta"
+    ],
+    "plural": "spaghetti",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "tempura": {
+    "emoji": "🍤",
+    "unicode": "U+1F364",
+    "category": "prepared",
+    "subcategory": "japanese",
+    "aliases": [
+      "fried shrimp"
+    ],
+    "plural": "tempura",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "dumpling": {
+    "emoji": "🥟",
+    "unicode": "U+1F95F",
+    "category": "prepared",
+    "subcategory": "asian",
+    "aliases": [
+      "pierogi",
+      "potsticker"
+    ],
+    "plural": "dumplings",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "fortune_cookie": {
+    "emoji": "🥠",
+    "unicode": "U+1F960",
+    "category": "snack",
+    "subcategory": "asian",
+    "aliases": [],
+    "plural": "fortune cookies",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "oyster": {
+    "emoji": "🦪",
+    "unicode": "U+1F9AA",
+    "category": "seafood",
+    "subcategory": "shellfish",
+    "aliases": [
+      "oysters",
+      "clam"
+    ],
+    "plural": "oysters",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "crab": {
+    "emoji": "🦀",
+    "unicode": "U+1F980",
+    "category": "seafood",
+    "subcategory": "shellfish",
+    "aliases": [],
+    "plural": "crabs",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "lobster": {
+    "emoji": "🦞",
+    "unicode": "U+1F99E",
+    "category": "seafood",
+    "subcategory": "shellfish",
+    "aliases": [],
+    "plural": "lobsters",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "11.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "shrimp": {
+    "emoji": "🦐",
+    "unicode": "U+1F990",
+    "category": "seafood",
+    "subcategory": "shellfish",
+    "aliases": [
+      "prawn"
+    ],
+    "plural": "shrimp",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "squid": {
+    "emoji": "🦑",
+    "unicode": "U+1F991",
+    "category": "seafood",
+    "subcategory": "mollusk",
+    "aliases": [
+      "calamari"
+    ],
+    "plural": "squid",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "ice_cream": {
+    "emoji": "🍦",
+    "unicode": "U+1F366",
+    "category": "dessert",
+    "subcategory": "ice cream",
+    "aliases": [
+      "soft serve"
+    ],
+    "plural": "ice creams",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "shaved_ice": {
+    "emoji": "🍧",
+    "unicode": "U+1F367",
+    "category": "dessert",
+    "subcategory": "ice cream",
+    "aliases": [
+      "snow cone"
+    ],
+    "plural": "shaved ice",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "doughnut": {
+    "emoji": "🍩",
+    "unicode": "U+1F369",
+    "category": "dessert",
+    "subcategory": "pastry",
+    "aliases": [
+      "donut"
+    ],
+    "plural": "doughnuts",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cookie": {
+    "emoji": "🍪",
+    "unicode": "U+1F36A",
+    "category": "dessert",
+    "subcategory": "baked",
+    "aliases": [
+      "chocolate chip cookie"
+    ],
+    "plural": "cookies",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "birthday_cake": {
+    "emoji": "🎂",
+    "unicode": "U+1F382",
+    "category": "dessert",
+    "subcategory": "cake",
+    "aliases": [
+      "cake"
+    ],
+    "plural": "birthday cakes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "shortcake": {
+    "emoji": "🍰",
+    "unicode": "U+1F370",
+    "category": "dessert",
+    "subcategory": "cake",
+    "aliases": [
+      "slice of cake"
+    ],
+    "plural": "shortcakes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cupcake": {
+    "emoji": "🧁",
+    "unicode": "U+1F9C1",
+    "category": "dessert",
+    "subcategory": "cake",
+    "aliases": [],
+    "plural": "cupcakes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "11.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pie": {
+    "emoji": "🥧",
+    "unicode": "U+1F967",
+    "category": "dessert",
+    "subcategory": "baked",
+    "aliases": [
+      "slice of pie"
+    ],
+    "plural": "pies",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "chocolate_bar": {
+    "emoji": "🍫",
+    "unicode": "U+1F36B",
+    "category": "dessert",
+    "subcategory": "candy",
+    "aliases": [
+      "chocolate"
+    ],
+    "plural": "chocolate bars",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "candy": {
+    "emoji": "🍬",
+    "unicode": "U+1F36C",
+    "category": "dessert",
+    "subcategory": "candy",
+    "aliases": [
+      "sweet",
+      "piece of candy"
+    ],
+    "plural": "candies",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "lollipop": {
+    "emoji": "🍭",
+    "unicode": "U+1F36D",
+    "category": "dessert",
+    "subcategory": "candy",
+    "aliases": [],
+    "plural": "lollipops",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "custard": {
+    "emoji": "🍮",
+    "unicode": "U+1F36E",
+    "category": "dessert",
+    "subcategory": "pudding",
+    "aliases": [
+      "flan",
+      "pudding"
+    ],
+    "plural": "custards",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "honey_pot": {
+    "emoji": "🍯",
+    "unicode": "U+1F36F",
+    "category": "sweetener",
+    "subcategory": "syrup",
+    "aliases": [
+      "honey"
+    ],
+    "plural": "honey pots",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "pear": {
+    "emoji": "🍐",
+    "unicode": "U+1F350",
+    "category": "fruit",
+    "subcategory": "pome",
+    "aliases": [],
+    "plural": "pears",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cherries": {
+    "emoji": "🍒",
+    "unicode": "U+1F352",
+    "category": "fruit",
+    "subcategory": "stone",
+    "aliases": [
+      "cherry"
+    ],
+    "plural": "cherries",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "chestnut": {
+    "emoji": "🌰",
+    "unicode": "U+1F330",
+    "category": "nut",
+    "subcategory": "tree nut",
+    "aliases": [],
+    "plural": "chestnuts",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "flatbread": {
+    "emoji": "🫓",
+    "unicode": "U+1FAD3",
+    "category": "grain",
+    "subcategory": "baked",
+    "aliases": [
+      "arepa",
+      "pita"
+    ],
+    "plural": "flatbreads",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "peas": {
+    "emoji": "🫛",
+    "unicode": "U+1FADB",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "aliases": [
+      "pea pod"
+    ],
+    "plural": "peas",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "15.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "beans": {
+    "emoji": "🫘",
+    "unicode": "U+1FAD8",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "aliases": [
+      "kidney bean"
+    ],
+    "plural": "beans",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "14.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "ginger": {
+    "emoji": "🫚",
+    "unicode": "U+1FADA",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": [
+      "ginger root"
+    ],
+    "plural": "gingers",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "15.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "waffle": {
+    "emoji": "🧇",
+    "unicode": "U+1F9C7",
+    "category": "grain",
+    "subcategory": "breakfast",
+    "aliases": [],
+    "plural": "waffles",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "meat_on_bone": {
+    "emoji": "🍖",
+    "unicode": "U+1F356",
+    "category": "protein",
+    "subcategory": "meat",
+    "aliases": [
+      "bone meat",
+      "barbecue"
+    ],
+    "plural": "meat on bones",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "poultry_leg": {
+    "emoji": "🍗",
+    "unicode": "U+1F357",
+    "category": "protein",
+    "subcategory": "poultry",
+    "aliases": [
+      "chicken leg",
+      "drumstick"
+    ],
+    "plural": "poultry legs",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "sandwich": {
+    "emoji": "🥪",
+    "unicode": "U+1F96A",
+    "category": "prepared",
+    "subcategory": "lunch",
+    "aliases": [
+      "sub"
+    ],
+    "plural": "sandwiches",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "stuffed_flatbread": {
+    "emoji": "🥙",
+    "unicode": "U+1F959",
+    "category": "prepared",
+    "subcategory": "mediterranean",
+    "aliases": [
+      "pita sandwich",
+      "gyros",
+      "kebab"
+    ],
+    "plural": "stuffed flatbreads",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "falafel": {
+    "emoji": "🧆",
+    "unicode": "U+1F9C6",
+    "category": "prepared",
+    "subcategory": "mediterranean",
+    "aliases": [],
+    "plural": "falafels",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "tamale": {
+    "emoji": "🫔",
+    "unicode": "U+1FAD4",
+    "category": "prepared",
+    "subcategory": "mexican",
+    "aliases": [
+      "tamales"
+    ],
+    "plural": "tamales",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "fondue": {
+    "emoji": "🫕",
+    "unicode": "U+1FAD5",
+    "category": "prepared",
+    "subcategory": "cheese",
+    "aliases": [
+      "melted cheese"
+    ],
+    "plural": "fondues",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "canned_food": {
+    "emoji": "🥫",
+    "unicode": "U+1F96B",
+    "category": "packaged",
+    "subcategory": "cans",
+    "aliases": [
+      "soup can",
+      "canned tomato"
+    ],
+    "plural": "canned foods",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "stew": {
+    "emoji": "🍲",
+    "unicode": "U+1F372",
+    "category": "prepared",
+    "subcategory": "soup",
+    "aliases": [
+      "pot of food",
+      "hot pot"
+    ],
+    "plural": "stews",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cereal": {
+    "emoji": "🥣",
+    "unicode": "U+1F963",
+    "category": "grain",
+    "subcategory": "breakfast",
+    "aliases": [
+      "bowl with spoon",
+      "oatmeal"
+    ],
+    "plural": "cereals",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "rice_cracker": {
+    "emoji": "🍘",
+    "unicode": "U+1F358",
+    "category": "snack",
+    "subcategory": "japanese",
+    "aliases": [
+      "senbei"
+    ],
+    "plural": "rice crackers",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "rice_ball": {
+    "emoji": "🍙",
+    "unicode": "U+1F359",
+    "category": "snack",
+    "subcategory": "japanese",
+    "aliases": [
+      "onigiri"
+    ],
+    "plural": "rice balls",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "dango": {
+    "emoji": "🍡",
+    "unicode": "U+1F361",
+    "category": "dessert",
+    "subcategory": "japanese",
+    "aliases": [],
+    "plural": "dango",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "oden": {
+    "emoji": "🍢",
+    "unicode": "U+1F362",
+    "category": "snack",
+    "subcategory": "japanese",
+    "aliases": [
+      "fish cake skewer"
+    ],
+    "plural": "oden",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "fish_cake": {
+    "emoji": "🍥",
+    "unicode": "U+1F365",
+    "category": "prepared",
+    "subcategory": "japanese",
+    "aliases": [
+      "narutomaki",
+      "swirl"
+    ],
+    "plural": "fish cakes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "moon_cake": {
+    "emoji": "🥮",
+    "unicode": "U+1F96E",
+    "category": "dessert",
+    "subcategory": "asian",
+    "aliases": [
+      "mooncake"
+    ],
+    "plural": "moon cakes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "11.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "baby_bottle": {
+    "emoji": "🍼",
+    "unicode": "U+1F37C",
+    "category": "beverage",
+    "subcategory": "dairy",
+    "aliases": [
+      "milk bottle"
+    ],
+    "plural": "baby bottles",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "milk_glass": {
+    "emoji": "🥛",
+    "unicode": "U+1F95B",
+    "category": "beverage",
+    "subcategory": "dairy",
+    "aliases": [
+      "glass of milk"
+    ],
+    "plural": "glasses of milk",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "hot_beverage": {
+    "emoji": "☕",
+    "unicode": "U+2615",
+    "category": "beverage",
+    "subcategory": "hot",
+    "aliases": [
+      "coffee",
+      "tea",
+      "espresso"
+    ],
+    "plural": "hot beverages",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "4.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "teacup": {
+    "emoji": "🍵",
+    "unicode": "U+1F375",
+    "category": "beverage",
+    "subcategory": "hot",
+    "aliases": [
+      "green tea",
+      "matcha"
+    ],
+    "plural": "teacups",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "sake": {
+    "emoji": "🍶",
+    "unicode": "U+1F376",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "sake bottle"
+    ],
+    "plural": "sake",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "champagne": {
+    "emoji": "🍾",
+    "unicode": "U+1F37E",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "sparkling wine",
+      "popping cork"
+    ],
+    "plural": "champagne",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "8.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "wine_glass": {
+    "emoji": "🍷",
+    "unicode": "U+1F377",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "red wine"
+    ],
+    "plural": "wine glasses",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cocktail": {
+    "emoji": "🍸",
+    "unicode": "U+1F378",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "martini"
+    ],
+    "plural": "cocktails",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "tropical_drink": {
+    "emoji": "🍹",
+    "unicode": "U+1F379",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "mai tai",
+      "fruit punch"
+    ],
+    "plural": "tropical drinks",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "beer_mug": {
+    "emoji": "🍺",
+    "unicode": "U+1F37A",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "pint",
+      "beer"
+    ],
+    "plural": "beer mugs",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "clinking_beer_mugs": {
+    "emoji": "🍻",
+    "unicode": "U+1F37B",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "cheers",
+      "beers"
+    ],
+    "plural": "clinking beer mugs",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "6.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "clinking_glasses": {
+    "emoji": "🥂",
+    "unicode": "U+1F942",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "cheers",
+      "toasting"
+    ],
+    "plural": "clinking glasses",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "tumbler_glass": {
+    "emoji": "🥃",
+    "unicode": "U+1F943",
+    "category": "beverage",
+    "subcategory": "alcohol",
+    "aliases": [
+      "whiskey",
+      "bourbon",
+      "liquor"
+    ],
+    "plural": "tumbler glasses",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "9.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "cup_with_straw": {
+    "emoji": "🥤",
+    "unicode": "U+1F964",
+    "category": "beverage",
+    "subcategory": "soda",
+    "aliases": [
+      "soda",
+      "fast food drink"
+    ],
+    "plural": "cups with straws",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "10.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "bubble_tea": {
+    "emoji": "🧋",
+    "unicode": "U+1F9CB",
+    "category": "beverage",
+    "subcategory": "tea",
+    "aliases": [
+      "boba",
+      "pearl milk tea"
+    ],
+    "plural": "bubble teas",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  },
+  "beverage_box": {
+    "emoji": "🧃",
+    "unicode": "U+1F9C3",
+    "category": "beverage",
+    "subcategory": "juice",
+    "aliases": [
+      "juice box"
+    ],
+    "plural": "beverage boxes",
+    "variants": {},
+    "metadata": {
+      "added_in_unicode": "12.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "bell_pepper": {
+    "emoji": "🫑",
+    "unicode": "U+1FAD1",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "aliases": ["capsicum", "sweet pepper", "pepper", "green pepper", "red pepper"],
+    "plural": "bell peppers",
+    "variants": {
+      "red": {
+        "emoji": "🌶️",
+        "note": "Often confused; use 🫑 for mild, 🌶️ for spicy"
+      }
+   },
+    "metadata": {
+      "added_in_unicode": "13.0",
+      "has_skin_tone": false,
+      "display_consistency": "high"
+    } 
+  },
+  "pepper": {
+    "ambiguous": true,
+    "options": [
+      {
+        "canonical": "black_pepper",
+        "emoji": "🧂",
+        "context": "spice/seasoning",
+        "example_phrase": "salt and pepper"
+      },
+      {
+        "canonical": "bell_pepper",
+        "emoji": "🫑",
+        "context": "vegetable",
+        "example_phrase": "stuffed bell peppers"
+      },
+      {
+        "canonical": "chili_pepper",
+        "emoji": "🌶️",
+        "context": "spicy pepper",
+        "example_phrase": "chili flakes"
+      }
+    ]
+  },
+  "black_pepper": {
+    "emoji": "🧂",
+    "unicode": "U+1F9C2",
+    "category": "spice",
+    "subcategory": "seasoning",
+    "aliases": ["peppercorn", "ground pepper"],
+    "plural": "black pepper"
+  },
+  "chili_pepper": {
+    "emoji": "🌶️",
+    "unicode": "U+1F336",
+    "category": "vegetable",
+    "subcategory": "spice",
+    "aliases": ["chili", "hot pepper", "chile", "jalapeno", "cayenne"],
+    "plural": "chili peppers"
+  },
+  "eggplant": {
+    "emoji": "🍆",
+    "unicode": "U+1F346",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "aliases": ["aubergine", "brinjal", "melongene", "guinea squash"],
+    "plural": "eggplants"
+  },
+  "cilantro": {
+    "emoji": "🌿",
+    "unicode": "U+1F33F",
+    "category": "herb",
+    "aliases": ["coriander", "chinese parsley", "dhania"],
+    "plural": "cilantro",
+    "notes": {
+      "UK": "UK 'coriander' = US 'cilantro'. For the seed/spice, use 'coriander seed'"
+    }
+  },
+  "ground_beef": {
+    "emoji": "🥩",
+    "unicode": "U+1F969",
+    "category": "protein",
+    "subcategory": "meat",
+    "aliases": ["beef mince", "minced beef", "hamburger meat"],
+    "plural": "ground beef"
+  },
+  "carrot": {
+    "emoji": "🥕",
+    "unicode": "U+1F955",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": [],
+    "plural": "carrots"
+  },
+  "potato": {
+    "emoji": "🥔",
+    "unicode": "U+1F954",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": ["spud", "tater"],
+    "plural": "potatoes"
+  },
+  "sweet_potato": {
+    "emoji": "🍠",
+    "unicode": "U+1F360",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": ["yam"],
+    "plural": "sweet potatoes"
+  },
+  "beet": {
+    "emoji": "🍠",
+    "unicode": "U+1F360",
+    "category": "vegetable",
+    "subcategory": "root",
+    "aliases": ["beetroot"],
+    "plural": "beets",
+    "note": "shares emoji with sweet potato"
+  },
+  "pitaya": {
+    "emoji": "🐉",
+    "unicode": "U+1F409",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": ["dragon fruit", "dragonfruit", "strawberry pear"],
+    "plural": "pitayas",
+    "note": "No specific emoji; 🐉 suggested as visual substitute"
+  },
+  "rambutan": {
+    "emoji": "🍇",
+    "unicode": "U+1F347",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "aliases": [],
+    "plural": "rambutans",
+    "rarity": "exotic",
+    "note": "No specific rambutan emoji; 🍇 suggested as visual substitute"
+  },
+  "peppermint": {
+    "emoji": "🍃",
+    "unicode": "U+1F343",
+    "category": "herb",
+    "aliases": ["mint"],
+    "plural": "peppermint"
+  }
+}
