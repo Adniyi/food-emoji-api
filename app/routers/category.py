@@ -2,7 +2,7 @@ from fastapi import APIRouter, Query
 from typing import Optional
 
 from app.database import get_db
-from app.models import CategoryResponse, CategoryItem, Category
+from app.models import CategoryResponse, CategoryItem, Category, CategoryRequest
 
 router = APIRouter()
 
