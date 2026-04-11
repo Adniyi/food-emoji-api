@@ -9,9 +9,13 @@ router = APIRouter()
 @router.get("/category/{category}", response_model=CategoryResponse)
 async def get_category(
     category: Category,
+    body: Optional[CategoryRequest] = None,
     subcategory: Optional[str] = Query(None),
     limit: int = Query(50, ge=1, le=100)
 ):
+    if body:
+        category = body.category
+        subcategory = body.subcategory
     db = get_db()
     items = db.get_by_category(category.value, subcategory)
     

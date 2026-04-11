@@ -5,7 +5,7 @@ from typing import Optional, Union
 from app.database import get_db, REGIONAL_ALIASES
 from app.matcher import FuzzyMatcher
 from app.utils import decode_url_param
-from app.models import EmojiSuccessResponse, AmbiguousResponse, NotFoundResponse
+from app.models import EmojiSuccessResponse, AmbiguousResponse, NotFoundResponse, FoodRequest
 
 router = APIRouter()
 
@@ -19,9 +19,14 @@ router = APIRouter()
 )
 async def get_emoji(
     food: str,
-    region: Optional[str] = Query(None, description="Region: UK, US, IN, AU")
+    region: Optional[str] = Query(None, description="Region: UK, US, IN, AU"),
+    body: Optional[FoodRequest] = None
 ):
-    query = decode_url_param(food)
+    if body:
+        query = decode_url_param(body.food)
+        region = body.region
+    else:
+        query = decode_url_param(food)
     db = get_db()
     
     # Try direct resolution

@@ -123,3 +123,10 @@ class RandomResponse(BaseModel):
     rarity: Optional[str] = None  # common, uncommon, exotic
 
 
+class FoodRequest(BaseModel):
+    food: str
+    region: Optional[str] = None
+
+class CategoryRequest(BaseModel):
+    category: str
+    subcategory: Optional[str] = None
