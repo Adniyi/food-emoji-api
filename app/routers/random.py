@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Query,HTTPException
 from typing import Optional
 
 from app.database import get_db
